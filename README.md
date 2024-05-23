@@ -22,3 +22,12 @@ On a virtual machine, I configured both Windows Server and Windows operating sys
 
 This project has been a fantastic learning experience, deepening my understanding of network infrastructure and server management. Looking forward to applying these skills in future projects and continuing to grow in the field of IT and network administration! 💻🌐
 
+
+
+
+
+
+
+
+
+
